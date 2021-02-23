@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+canvas
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#visualizer
+{
+    border: 1px solid black;
+}
