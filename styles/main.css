@@ -1,10 +1,7 @@
 body
 {
     margin: 0;
-}
-
-#control-panel
-{
+    justify-content: center;
     text-align: center;
 }
 
