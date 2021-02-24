@@ -1,0 +1,31 @@
+body
+{
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#controls
+{
+    columns: 2;
+    width: 20rem;
+    margin: 1rem auto;
+}
+
+.control
+{
+    padding: 0;
+    margin: 0;
+}
+
+canvas
+{
+    margin: 2rem auto 2rem auto;
+    display: block;
+}
+
+#visualizer
+{
+    border: 1px solid black;
+}
